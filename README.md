@@ -1,13 +1,20 @@
-# pricing-component
+# Pricing Component
+
+## Overview
+
+The Pricing Component is a web application that allows you to showcase and compare pricing plans or options. It's built using React and Vite, offering a modern and efficient development environment for building interactive pricing displays.
 
 ## Technologies Used
 
-- React
-- Vite
-  
+### Frontend
+
+- **React**: The project utilizes the React library to build dynamic and interactive user interfaces.
+
+- **Vite**: Vite is the build tool of choice, providing fast development and optimized production builds.
+
 ## Getting Started
 
-To run this project locally, you'll need to have both React and Vite installed on your system. Here's how to do it:
+To set up and run this project locally, make sure you have the following prerequisites installed on your system:
 
 ### Prerequisites
 
@@ -16,27 +23,41 @@ To run this project locally, you'll need to have both React and Vite installed o
 
 ### Installation
 
-1. **Clone the repository:**
+1. **Clone the Repository:**
 
+   ```bash
    git clone https://github.com/userName/repoName.git
+   ```
 
-Once you’re inside the project directory, run the following command to install the dependencies required for the project:
+2. **Install Dependencies:**
 
-### npm install 
+   Once you're inside the project directory, run the following command to install the required dependencies:
 
-And then
+   ```bash
+   npm install
+   ```
 
-### npm run dev
+3. **Start the Development Server:**
 
-Runs the app in the development mode.
+   To launch the application in development mode, run the following command:
 
-<img width="1920" alt="print" src="https://github.com/Sakura-blip/pricing-component/assets/115422221/90a69ee0-2806-4931-93e1-df81396c55ca">
+   ```bash
+   npm run dev
+   ```
 
-# React + Vite
+   This will start the development server, allowing you to view the app in your browser.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Preview
 
-Currently, two official plugins are available:
+![Pricing Component](https://github.com/Sakura-blip/pricing-component/assets/115422221/90a69ee0-2806-4931-93e1-df81396c55ca)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## React + Vite
+
+This project template provides a minimal setup for using React with Vite. It includes features like Hot Module Replacement (HMR) and ESLint rules for code quality. 
+
+For more details and customization options, refer to the official plugins:
+
+- **[@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)**: Uses Babel for Fast Refresh.
+- **[@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)**: Uses SWC for Fast Refresh.
+
+Explore the Pricing Component and easily create stunning pricing displays for your projects!
