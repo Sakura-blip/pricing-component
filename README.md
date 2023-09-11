@@ -22,11 +22,11 @@ To run this project locally, you'll need to have both React and Vite installed o
 
 Once you’re inside the project directory, run the following command to install the dependencies required for the project:
 
-npm install 
+### npm install 
 
 And then
 
-npm run dev
+### npm run dev
 
 Runs the app in the development mode.
 
