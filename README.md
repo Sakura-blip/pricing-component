@@ -1,6 +1,30 @@
 # pricing-component
 
-In the project directory, you can run:
+## Technologies Used
+
+- React
+- Vite
+  
+## Getting Started
+
+To run this project locally, you'll need to have both React and Vite installed on your system. Here's how to do it:
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (LTS version recommended)
+- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
+
+### Installation
+
+1. **Clone the repository:**
+
+   git clone https://github.com/userName/repoName.git
+
+Once you’re inside the project directory, run the following command to install the dependencies required for the project:
+
+npm install 
+
+And then
 
 npm run dev
 
