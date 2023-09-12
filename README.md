@@ -49,7 +49,7 @@ To set up and run this project locally, make sure you have the following prerequ
 
 ## Preview
 
-![Pricing Component](https://github.com/Sakura-blip/pricing-component/assets/115422221/90a69ee0-2806-4931-93e1-df81396c55ca)
+<img width="536" alt="print" src="https://github.com/Sakura-blip/pricing-component/assets/115422221/2e6cfc87-de2c-4aa9-b7b0-90e452cbe6f5">
 
 ## React + Vite
 
