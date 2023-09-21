@@ -6,11 +6,11 @@ The Pricing Component is a web application that allows you to showcase and compa
 
 ## Technologies Used
 
-### Frontend
-
 - **React**: The project utilizes the React library to build dynamic and interactive user interfaces.
-
 - **Vite**: Vite is the build tool of choice, providing fast development and optimized production builds.
+
+## Preview
+<img width="536" alt="print" src="https://github.com/Sakura-blip/pricing-component/assets/115422221/2e6cfc87-de2c-4aa9-b7b0-90e452cbe6f5">
 
 ## Getting Started
 
@@ -46,10 +46,6 @@ To set up and run this project locally, make sure you have the following prerequ
    ```
 
    This will start the development server, allowing you to view the app in your browser.
-
-## Preview
-
-<img width="536" alt="print" src="https://github.com/Sakura-blip/pricing-component/assets/115422221/2e6cfc87-de2c-4aa9-b7b0-90e452cbe6f5">
 
 ## React + Vite
 
